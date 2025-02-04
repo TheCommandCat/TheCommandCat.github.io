@@ -2,10 +2,6 @@ title: TheCommandCat's Portfolio
 description: "A gateway to my portfolio and services I develop and host."
 url: "https://bhrtkhvji.github.io"
 
-theme: minima
-
-markdown: kramdown
-
 author:
   name: TheCommandCat
   email: bhrtkhvji@gmail.com
