@@ -1,34 +1,22 @@
 title: TheCommandCat's Portfolio
 description: "A gateway to my portfolio and services I develop and host."
-url: "https://yourusername.github.io" # Replace with your GitHub username or custom domain
-baseurl: "" # Use if your website is in a subdirectory
+url: "https://bhrtkhvji.github.io"
 
 theme: minima
 
 markdown: kramdown
 
-plugins:
-  - jekyll-feed
-
-exclude:
-  - README.md
-  - LICENSE
-
 author:
   name: TheCommandCat
-  email: your.email@example.com # Optional
+  email: bhrtkhvji@example.com
 
 social_links:
-  twitter: "https://twitter.com/yourhandle"
-  github: "https://github.com/yourusername"
-  linkedin: "https://www.linkedin.com/in/yourusername/"
-  instagram: "https://www.instagram.com/yourhandle/"
+  github: "https://github.com/thecommandcat"
+  instagram: "https://www.instagram.com/nir_chen2024/"
 
-# Style customization (Optional)
 theme_settings:
-  header_logo: "assets/logo.png" # Add your logo here
   footer_text: "Made with ❤️ by TheCommandCat"
-  accent_color: "#2c3e50" # Primary color of the website
-  background_color: "#f4f4f4" # Background color of the site
-  button_color: "#3498db" # Button color
-  link_color: "#2980b9" # Link color
+  accent_color: "#2c3e50"
+  background_color: "#f4f4f4"
+  button_color: "#3498db"
+  link_color: "#2980b9"
