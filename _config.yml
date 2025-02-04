@@ -1,8 +1,6 @@
 title: TheCommandCat's Portfolio
 description: "A gateway to my portfolio and services I develop and host."
-url: "https://bhrtkhvji.github.io"
-
-theme: minima
+url: "https://thecommandcat.github.io"
 
 author:
   name: TheCommandCat
@@ -11,6 +9,10 @@ author:
 social_links:
   github: "https://github.com/thecommandcat"
   instagram: "https://www.instagram.com/nir_chen2024/"
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 theme_settings:
   footer_text: "Made with ❤️ by TheCommandCat"
