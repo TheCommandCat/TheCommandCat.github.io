@@ -1,5 +1,3 @@
-# Welcome To My Website
-
 ### Hey! Im TheCommandCat👋
 
 - Currently a student based in israel 🇮🇱
